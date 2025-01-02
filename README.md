@@ -20,4 +20,4 @@ Files are named based on the following structure:
 
 
 
-### How to run YACC File: [YouTube](https://www.youtube.com/watch?v=dl1xPSaScLw)
+### How to run YACC Program: [YouTube](https://www.youtube.com/watch?v=dl1xPSaScLw)
